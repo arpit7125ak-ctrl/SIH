@@ -122,11 +122,16 @@
 - **Theme:** Smart Automation
 - **Deadline:** 2026-09-20
 - **Ideas submitted:** 0/500
-- Background: MOIL Limited is the largest producer of Manganese Ore in India. To meet future demand, it is important to accurately identify available reserves and avoid production shortfalls. At present, reserve estimation and production planning are mainly based on manual surveys, drilling results, and production records. These methods are time-consuming and sometimes lead to a mismatch between expected and actual ore production. Detailed Description: The challenge is to develop an AI/ML-based solution that uses geological data,historical production, equipment performance, and satellite/space technology inputs (such as rainfall, soil moisture, vegetation index, and land temperature) to:
+- **Background:**
+- MOIL Limited is the largest producer of Manganese Ore in India. To meet future demand, it is important to accurately identify available reserves and avoid production shortfalls. At present, reserve estimation and production planning are mainly based on manual surveys, drilling results, and production records. These methods are time-consuming and sometimes lead to a mismatch between expected and actual ore production.
+- **Description:**
+- Detailed Description: The challenge is to develop an AI/ML-based solution that uses geological data,historical production, equipment performance, and satellite/space technology inputs (such as rainfall, soil moisture, vegetation index, and land temperature) to:
 - • Identify and map manganese reserves more accurately using surface and sub-surface indicators.
 - • Predict shortfalls in production by analysing constraints like equipment downtime, weather conditions, or blasting delays.
-- • Suggest corrective actions such as adjusting mine schedules, optimizing blasting, or re-deploying equipment to ensure continuous ore availability. Expected Solution: The expected solution is a user-friendly dashboard that shows predicted reserves, production trends, possible risks of shortfall, and recommended corrective steps.
+- • Suggest corrective actions such as adjusting mine schedules, optimizing blasting, or re-deploying equipment to ensure continuous ore availability.
 - This will help MOIL improve planning, reduce losses, and ensure steady ore supply to customers.
+- **Expected Solution:**
+- The expected solution is a user-friendly dashboard that shows predicted reserves, production trends, possible risks of shortfall, and recommended corrective steps.
 
 ---
 
@@ -142,7 +147,9 @@
 - The proposed solution Should develop an advanced 3D ULPIN(Unique Land Parcel ldentification Number) Generation and vertical Property Mapping system capable of creating unique spatial identities for:
 - . Surface land parcels . Multi-storey apartments . Underground infrastructure The system should integrate:
 - . Drone imagery . LiDAR/3D Point cloud data . GIS parcel layers . Building floor Plans . GNSS/CORS-based coordinates . Digital Elevation Models (DEM/DSM) The solution should also incorporate AI/ML capabilities for:
-- . Automated building extraction . Floor segmentation . Vertical Parcel delineation . lntelligent topology validation Expected Solution: The expected outcome is development of a scalable and interoperable 3D cadastral framework capable of:
+- . Automated building extraction . Floor segmentation . Vertical Parcel delineation . lntelligent topology validation
+- **Expected Solution:**
+- Expected Solution: The expected outcome is development of a scalable and interoperable 3D cadastral framework capable of:
 - . Generating standardized 3D ULPINs . Mapping vertical and underground ownership rights . Supporting volumetric cadastre systems . Enabling accurate urban property governance . Reducing ownership conflicts and ambiguities . lmproving infrastructure planning and utility management
 
 ---
@@ -154,8 +161,9 @@
 - **Deadline:** 2026-09-20
 - **Ideas submitted:** 0/500
 - **Background:**
-- Accurate and up-to-date urban land records are essential for effective land governance, urban planning, taxation, infrastructure development, and delivery of citizen-centric services. At present, preparation of cadastral maps and delineation of urban parcel boundaries is largely dependent on manual interpretation of drone imagery and field-based Ground Truthing (GT) activities. The process is time- consuming, resource intensive, and requires extensive human intervention for extraction of parcel boundaries, building footprints, road networks, and other cadastral features.Further, dense urban settlements, irregular parcel geometries, encroachments,overlapping structures, narrow access roads, and mixed land-use patterns create significant challenges in preparation of accurate parcel maps. Manual digitization and validation of parcel boundaries often lead to delays in completion of cadastral surveys and generation of urban land records.With availability of high-resolution orthorectified lmagery (ORl), Digital surface Models (DSM), Digital Terrain Models (DTM), and drone datasets, there exists significant potential for leveraging Artificial lntelligence (Al), computer Vision, and GeoAl technologies for automated extraction of cadastral features and preparation of preliminary urban Parcel maps. Description:
-- The system should be capable of:
+- Accurate and up-to-date urban land records are essential for effective land governance, urban planning, taxation, infrastructure development, and delivery of citizen-centric services. At present, preparation of cadastral maps and delineation of urban parcel boundaries is largely dependent on manual interpretation of drone imagery and field-based Ground Truthing (GT) activities. The process is time- consuming, resource intensive, and requires extensive human intervention for extraction of parcel boundaries, building footprints, road networks, and other cadastral features.Further, dense urban settlements, irregular parcel geometries, encroachments,overlapping structures, narrow access roads, and mixed land-use patterns create significant challenges in preparation of accurate parcel maps. Manual digitization and validation of parcel boundaries often lead to delays in completion of cadastral surveys and generation of urban land records.With availability of high-resolution orthorectified lmagery (ORl), Digital surface Models (DSM), Digital Terrain Models (DTM), and drone datasets, there exists significant potential for leveraging Artificial lntelligence (Al), computer Vision, and GeoAl technologies for automated extraction of cadastral features and preparation of preliminary urban Parcel maps.
+- **Description:**
+- Description: The system should be capable of:
 - . Automatic extraction of parcel boundaries . ldentification and delineation of building footprints . Detection of roads, pathways, and access corridors . Classification of land-use features in urban areas The proposed solution should utilize:
 - . High-resolution Drone lmagery . Orthorectified lmagery (ORl)
 - . DSM/DTM datasets . Existing GIS Parcel layers . Ground Truthing (GT) datasets . GNSS/CORS-enabled surveY data The platform should incorporate:
@@ -177,14 +185,17 @@
 - **Theme:** Disaster Management
 - **Deadline:** 2026-09-20
 - **Ideas submitted:** 0/500
+- **Background:**
 - Background: Urban land administration and cadastral management involve integration of multiple spatial and non-spatial datasets generated from various departments,agencies,and survey mechanisms. Under modern land governance programmes such as the NAKSHA Programme, large volumes of geospatial data are being generated through drone surveys, Orthorectified lmagery (ORl), DSM/DTM datasets, Ground Truthing (GT),GNSS surveys,municipal records,utility databases, and revenue land records.
-- At present,harmonization and integration of these datasets largely depend on manual GIS workflows,which are time-consuming and prone to errors.With increasing availability of Al, GeoAl, and automated spatial processing technologies, there is significant scope for development of an intelligent system capable of automatically integrating and synchronizing multi-source geospatial datasets with feature-extracted cadastral data. Description:
-- The proposed solution should develop an Al-enabled geospatial integration platform capable of automatically integrating, harmonizing, validating, and synchronizing multiple land-related datasets with Al-generated feature extraction outputs.
+- At present,harmonization and integration of these datasets largely depend on manual GIS workflows,which are time-consuming and prone to errors.With increasing availability of Al, GeoAl, and automated spatial processing technologies, there is significant scope for development of an intelligent system capable of automatically integrating and synchronizing multi-source geospatial datasets with feature-extracted cadastral data.
+- **Description:**
+- Description: The proposed solution should develop an Al-enabled geospatial integration platform capable of automatically integrating, harmonizing, validating, and synchronizing multiple land-related datasets with Al-generated feature extraction outputs.
 - The system should support integration of:
 - . Drone imagery . Orthorectified lmagery (ORl)
 - . DSM/DTM datasets . Existing cadastral maps . Revenue records . Municipal GIS layers . Utility network data . Ground Truthing (GT) datasets . GNSS/CORS survey data . Building footPrint datasets The solution should incorPorate:
-- . Al/ML-based spatial matching algorithms . Automated topology correction . lntelligent attribute mapping . Geo-referencing and coordinate transformation engine . Change detection mechanisms . Spatial conflict resolution framework . Confidence scoring for integrated outputs Expected Solution:
-- . The expected outcome is development of an intelligent geospatial integration framework capable of automatically harmonizing multi-source land-related datasets with Al-generated feature extraction outputs. .The final solution should:
+- . Al/ML-based spatial matching algorithms . Automated topology correction . lntelligent attribute mapping . Geo-referencing and coordinate transformation engine . Change detection mechanisms . Spatial conflict resolution framework . Confidence scoring for integrated outputs
+- **Expected Solution:**
+- Expected Solution: . The expected outcome is development of an intelligent geospatial integration framework capable of automatically harmonizing multi-source land-related datasets with Al-generated feature extraction outputs. .The final solution should:
 - . Reduce manual GIS integration efforts . lmprove accuracy and consistency of urban land records . Enable seamless inter-departmental spatial data exchange . Accelerate cadastral finalization processes . lmprove interoperability of urban land information systems . Support standardized digital land governance Suggested Technologies:
 - . Artificial lntelligence (Al)
 - . Machine Learning (ML)
